@@ -7,7 +7,7 @@ O CALC3Solver é uma plataforma web inteligente projetada para resolver problema
 
 Frontend: HTML
 
-Backend: Python (sem Flask)
+Backend: Python
 
 Biblioteca de Cálculo: NumPy
 
